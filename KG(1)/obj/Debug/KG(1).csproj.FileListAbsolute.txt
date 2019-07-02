@@ -1,0 +1,79 @@
+C:\Users\HP\source\repos\KG(1)\KG(1)\bin\Debug\KG(1).exe.config
+C:\Users\HP\source\repos\KG(1)\KG(1)\bin\Debug\KG(1).exe
+C:\Users\HP\source\repos\KG(1)\KG(1)\bin\Debug\KG(1).pdb
+C:\Users\HP\source\repos\KG(1)\KG(1)\obj\Debug\KG(1).csprojAssemblyReference.cache
+C:\Users\HP\source\repos\KG(1)\KG(1)\obj\Debug\KG_1_.Form1.resources
+C:\Users\HP\source\repos\KG(1)\KG(1)\obj\Debug\KG_1_.Properties.Resources.resources
+C:\Users\HP\source\repos\KG(1)\KG(1)\obj\Debug\KG(1).csproj.GenerateResource.cache
+C:\Users\HP\source\repos\KG(1)\KG(1)\obj\Debug\KG(1).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\KG(1)\KG(1)\obj\Debug\KG(1).exe
+C:\Users\HP\source\repos\KG(1)\KG(1)\obj\Debug\KG(1).pdb
+D:\Учеба\КГ\KG(1)\KG(1)\bin\Debug\KG(1).exe.config
+D:\Учеба\КГ\KG(1)\KG(1)\bin\Debug\KG(1).exe
+D:\Учеба\КГ\KG(1)\KG(1)\bin\Debug\KG(1).pdb
+D:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).csprojAssemblyReference.cache
+D:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG_1_.Form1.resources
+D:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG_1_.Properties.Resources.resources
+D:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).csproj.GenerateResource.cache
+D:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).csproj.CoreCompileInputs.cache
+D:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).exe
+D:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).pdb
+F:\Учеба\КГ\KG(1)\KG(1)\bin\Debug\KG(1).exe.config
+F:\Учеба\КГ\KG(1)\KG(1)\bin\Debug\KG(1).exe
+F:\Учеба\КГ\KG(1)\KG(1)\bin\Debug\KG(1).pdb
+F:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).csprojAssemblyReference.cache
+F:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG_1_.Form1.resources
+F:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG_1_.Properties.Resources.resources
+F:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).csproj.GenerateResource.cache
+F:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).csproj.CoreCompileInputs.cache
+F:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).exe
+F:\Учеба\КГ\KG(1)\KG(1)\obj\Debug\KG(1).pdb
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe.config
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\bin\Debug\KG(1).pdb
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\obj\Debug\KG(1).csprojAssemblyReference.cache
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Form1.resources
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Properties.Resources.resources
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\obj\Debug\KG(1).exe
+C:\Users\HP\Desktop\кг\KG(1)\KG(1)\obj\Debug\KG(1).pdb
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe.config
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\bin\Debug\KG(1).pdb
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG(1).csprojAssemblyReference.cache
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Form1.resources
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Properties.Resources.resources
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.GenerateResource.cache
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG(1).exe
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG(1).pdb
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Form2.resources
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\Interop.WMPLib.dll
+C:\Users\HP\Desktop\6 семестр\Компьютерная графика\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.ResolveComReference.cache
+D:\Учеба\КГ\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe.config
+D:\Учеба\КГ\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe
+D:\Учеба\КГ\кг\KG(1)\KG(1)\bin\Debug\KG(1).pdb
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csprojAssemblyReference.cache
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\Interop.WMPLib.dll
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.ResolveComReference.cache
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Form1.resources
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Form2.resources
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Properties.Resources.resources
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.GenerateResource.cache
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.CoreCompileInputs.cache
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).exe
+D:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).pdb
+F:\Учеба\КГ\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe.config
+F:\Учеба\КГ\кг\KG(1)\KG(1)\bin\Debug\KG(1).exe
+F:\Учеба\КГ\кг\KG(1)\KG(1)\bin\Debug\KG(1).pdb
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csprojAssemblyReference.cache
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\Interop.WMPLib.dll
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.ResolveComReference.cache
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Form1.resources
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Form2.resources
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG_1_.Properties.Resources.resources
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.GenerateResource.cache
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).csproj.CoreCompileInputs.cache
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).exe
+F:\Учеба\КГ\кг\KG(1)\KG(1)\obj\Debug\KG(1).pdb
